@@ -19,6 +19,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Ancient Landscapes of the Grand Canyon Region
 
   The Geology of Grand Canyon, Zion, Bryce, Petrified Forest & Painted Desert'
